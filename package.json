@@ -1,17 +1,9 @@
 {
   "type": "module",
+  "scripts": {
+    "dev": "node api/bot.js"
+  },
   "dependencies": {
     "node-telegram-bot-api": "^0.61.0"
   }
-}  },
-  "name": "home",
-  "version": "1.0.0",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
 }
